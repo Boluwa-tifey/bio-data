@@ -1,0 +1,30 @@
+
+body {
+
+    background-color: rgb(235, 242, 247);
+    
+}
+
+
+
+.sea {
+
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.profile {
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border-left: 5px solid blue;
+    border-right: 5px solid blue;
+    border-top:5px solid blue;
+    border-bottom:5px solid blue;
+    line-height: 50px;
+    
+}
+
+
+

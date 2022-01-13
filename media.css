@@ -1,0 +1,32 @@
+
+@media  screen and (max-width:449px) {
+
+    a {
+        font-size: 9px;
+    }
+
+    p {
+        font-size: 9px;
+    }
+
+
+}
+
+@media screen and (max-width:350px) {
+
+    
+
+}
+
+@media screen and (max-width:1000px) {
+
+    a {
+        font-size: 10px;
+    }
+
+    p {
+        font-size: 10px;
+    }
+
+
+}
